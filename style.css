@@ -43,7 +43,7 @@ img {
 
 @media only screen and (max-width: 601px){
     #header {
-        padding-top: 10px;
+        padding-top: 20px;
     }
     #gif img {
         max-width: 100px;
@@ -57,7 +57,10 @@ img {
         text-align: center;
         font-family: 'Poppins', sans-serif;
         letter-spacing: 3px;
-        margin-top: 20px;
+        margin-top: 30px;
         font-size: 15px;
+    }
+    .gif-container {
+        top: 55%;
     }
 }
